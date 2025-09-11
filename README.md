@@ -1,6 +1,6 @@
 # pab-edit
 
-Texteditor programmiert mit PABasic
+Texteditor programmiert mit PABasic für den C64
 
 Features
 
