@@ -1,4 +1,4 @@
-# pab-edit
+# pab-edit V1.8
 
 Texteditor programmiert mit PABasic für den C64
 
